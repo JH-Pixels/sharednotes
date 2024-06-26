@@ -1,4 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome
 ---
-Hello 
+Hello.
