@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to My Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hey, welcome to my public obsidian vault. This Vault is similar to my private Obsidian Vault, but I did leave out a lot of notes and a few folders. If you are curious about my personal Vault structure, check out the [My Personal Vault] note. 
